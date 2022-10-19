@@ -6,6 +6,8 @@
 
 This project entailed creating maps from several data sources to visualize Geo JSON data on maps using Leafly and Application Programming Interface (API) calls to Mapbox.  The Earthquake Challenge project uses several overlays, including data showing tectonic fault lines, earthquakes reported by the USGS over the past seven days, as well highlighting the major earthquakes from the past week.
 
+## **See the page in action [here](https://halesoysters.github.io/halesoysters.2.github.io/)**
+
 ## Results 
 The first map I created was a return to populating pins on a map with data using JavaScript and D3 to parse information about major airports from a JSON file and plot them over a map layer provided by Mapbox.   
 
