@@ -19,6 +19,8 @@ The next example is plotting GeoJSON Linestrings of flight paths out of a popula
 
 The next example takes neighborhood data from Toronto, Canada to fill in GeoJSON Polygons, including interactive data of each neighborhood.  You’ll notice the area is filled in with different color lines.  
 
+## **See the interactive map of Toronto [here]( https://halesoysters.github.io/halesoysters.3.github.io-/)**
+
 ![header](images/toronto.png)
 
 The final project shows several earthquake data overlays including interactive information about the size and location.  
